@@ -1,4 +1,4 @@
-## **API de Gerenciamento de Clientes Agrícolas 
+## API de Gerenciamento de Clientes Agrícolas 
 
 ---
 
